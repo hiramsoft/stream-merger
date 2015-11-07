@@ -1,0 +1,32 @@
+{
+  "name": "stream-merger",
+  "version": "0.0.1",
+  "description": "Merges NodeJS streams together in one output stream.  Useful for merging LESS and SASS compilation into a common minify stream in gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiramsoft/stream-merger.git"
+  },
+  "keywords": [
+    "gulp",
+    "stream",
+    "merge",
+    "merger",
+    "less",
+    "sass",
+    "minify",
+    "together"
+  ],
+  "author": "Hiram Software",
+  "license": "MITNFA",
+  "bugs": {
+    "url": "https://github.com/hiramsoft/stream-merger/issues"
+  },
+  "homepage": "https://github.com/hiramsoft/stream-merger#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
